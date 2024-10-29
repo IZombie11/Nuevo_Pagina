@@ -1,0 +1,18 @@
+*{margin:0}
+h1{text-align:center;color:white}
+div{background-color:black}
+	body{background-color:black}
+	h3{color:white;text-align:center}
+	h2{color:white;text-align:center}
+	.Titu{background-color:#c7c7c7;color:black}
+	table{height:30vw;text-align:center;margin: 0 auto; width:50%}
+	p{text-align:center}
+	iframe{border: 0;width:600px;height:450px}
+.Tabla{background-color:gray;text-align:center}
+.imagen{background-color:black;height:30vw}
+.abajo{background-color:#f2edd7;text-align:center}
+.copy{color:white;text-align:center}
+.Volver{text-align:center}
+.titul{background-color:#d7d4d4}
+.mapa{text-align:center;background-color:#f2edd7}
+.mage{padding:center;background-color:#f2edd7}
